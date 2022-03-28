@@ -1,0 +1,5 @@
+Credentials cache: API:C6CCEE14-856E-47E9-B1C6-7095D858A07C
+        Principal: mroudaut@42.FR
+
+  Issued                Expires               Principal
+Feb  8 15:35:39 2018  Feb 15 15:35:28 2018  krbtgt/42.FR@42.FR
